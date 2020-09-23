@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Fun purple dragon](https://pixy.org/src/464/thumbs350/4640092.jpg)
